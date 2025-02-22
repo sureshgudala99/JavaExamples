@@ -16,6 +16,9 @@ public class JoiningExample {
        String str= strList.stream().collect(Collectors.joining("," ,"Tech:","Technology"));
 
        System.out.println("Hello Welcome...");
+
+        System.out.println("Hello Welcome...");
+        System.out.println("How are you");
 System.out.println(str);
 
 
